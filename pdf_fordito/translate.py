@@ -4,7 +4,7 @@ import convert, time
 
 
 def translater ():
-    api_key = "d6efc743-00d3-4883-a711-6772c66c8caf:fx"
+    api_key = "HERE IS NEED YOUR KEY" #free registration deepl - API KEY
 
     translater = deepl.Translator(api_key)
 
